@@ -1,0 +1,77 @@
+body {
+
+}
+
+
+h1 {
+	text-align: center;
+	color: #000000;
+	font-family: 'Cormorant Garamond', serif;
+	font-size: 40px; 
+
+}
+
+
+.introduction {
+	font-family: 'Cormorant Garamond', serif;
+   	padding: 250px 0px;
+	
+}
+
+
+.introduction p {
+	color: #000000;
+	font-size: 20px;
+
+}
+
+.timeline {
+	font-family: 'Cormorant Garamond', serif;
+   	padding: 250px 0px;
+}
+
+.timeline p {
+	color: #000000;
+	font-size: 20px;
+}
+
+.general {
+	font-family: 'Cormorant Garamond', serif;
+	padding: 250px 0px;
+}
+
+.general p {
+	color: #000000;
+	font-size: 20px;
+}
+
+.videoSection {
+	font-family: 'Cormorant Garamond', serif;
+	padding-bottom: 100px;
+}
+
+.videoSection p {
+	color: #000000;
+	font-size: 20px;
+	padding: 5px
+}
+
+
+video {
+     display: block;
+     margin: 0 auto;
+}
+
+.map01 {
+
+}
+
+#footer {
+	text-align: center;
+    margin-top: 395px;
+   	font-family: 'Cormorant Garamond', serif;
+	color: #000000;
+	font-size: 15px;
+}
+
+
